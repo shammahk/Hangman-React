@@ -1,0 +1,9 @@
+.Hangman {
+  width: 80%;
+  margin-top: 50px;
+}
+
+.lg-space {
+  letter-spacing: 5px;
+  font-size: 1.2rem;
+}
