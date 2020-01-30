@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Hangman-React/static/css/main.faf6a24d.chunk.css",
-    "main.js": "/Hangman-React/static/js/main.02b64afe.chunk.js",
-    "main.js.map": "/Hangman-React/static/js/main.02b64afe.chunk.js.map",
-    "runtime-main.js": "/Hangman-React/static/js/runtime-main.f3a4395d.js",
-    "runtime-main.js.map": "/Hangman-React/static/js/runtime-main.f3a4395d.js.map",
-    "static/js/2.58c5160e.chunk.js": "/Hangman-React/static/js/2.58c5160e.chunk.js",
-    "static/js/2.58c5160e.chunk.js.map": "/Hangman-React/static/js/2.58c5160e.chunk.js.map",
+    "main.js": "/Hangman-React/static/js/main.a966eddf.chunk.js",
+    "main.js.map": "/Hangman-React/static/js/main.a966eddf.chunk.js.map",
+    "runtime-main.js": "/Hangman-React/static/js/runtime-main.e5e1d42f.js",
+    "runtime-main.js.map": "/Hangman-React/static/js/runtime-main.e5e1d42f.js.map",
+    "static/js/2.2ed8d85a.chunk.js": "/Hangman-React/static/js/2.2ed8d85a.chunk.js",
+    "static/js/2.2ed8d85a.chunk.js.map": "/Hangman-React/static/js/2.2ed8d85a.chunk.js.map",
     "index.html": "/Hangman-React/index.html",
-    "precache-manifest.d6690ed76c8fb17812769517d032d539.js": "/Hangman-React/precache-manifest.d6690ed76c8fb17812769517d032d539.js",
+    "precache-manifest.725cd029d0cab9d6392cad77643afbd9.js": "/Hangman-React/precache-manifest.725cd029d0cab9d6392cad77643afbd9.js",
     "service-worker.js": "/Hangman-React/service-worker.js",
     "static/css/main.faf6a24d.chunk.css.map": "/Hangman-React/static/css/main.faf6a24d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3a4395d.js",
-    "static/js/2.58c5160e.chunk.js",
+    "static/js/runtime-main.e5e1d42f.js",
+    "static/js/2.2ed8d85a.chunk.js",
     "static/css/main.faf6a24d.chunk.css",
-    "static/js/main.02b64afe.chunk.js"
+    "static/js/main.a966eddf.chunk.js"
   ]
 }
